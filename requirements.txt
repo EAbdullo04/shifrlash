@@ -1,2 +1,5 @@
 streamlit 
 cryptography
+joblib
+fernet
+requests
